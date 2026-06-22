@@ -1,6 +1,7 @@
-PROGRESS_ITEMS = [
-    {"issue": "#1", "owner": "李四", "title": "更新项目名称和口号", "status": "PR #11 已合并"},
-    {"issue": "#2", "owner": "王五", "title": "补全成员与分工", "status": "PR #12 已合并"},
-    {"issue": "#3", "owner": "赵六", "title": "补充功能清单", "status": "PR #13 已合并"},
-    {"issue": "#4", "owner": "孙七", "title": "补充协作进度和日志", "status": "PR #14 已合并"},
+CHANGELOG = [
+    "v0.1 组长创建 PySide6 初始项目并推送到 main",
+    "v0.2 组员 A 通过 PR 更新项目名称和口号",
+    "v0.3 组员 B 通过 PR 补全成员与分工",
+    "v0.4 组员 C 通过 PR 补充功能清单",
+    "v0.5 组员 D 通过 PR 补充进度和版本日志",
 ]
